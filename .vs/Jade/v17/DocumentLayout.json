@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dj_al\\source\\repos\\Jade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\models\\estabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\models\\estabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\controllers\\estabelecimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\controllers\\estabelecimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\dtos\\estabelecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\dtos\\estabelecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\dtos\\grupoopcaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\dtos\\grupoopcaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\services\\grupoopcaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\services\\grupoopcaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\services\\igrupoopcaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\services\\igrupoopcaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\services\\lojaitemconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\services\\lojaitemconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\dtos\\lojaitemconfigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\dtos\\lojaitemconfigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|c:\\users\\dj_al\\source\\repos\\jade\\jade\\services\\ilojaitemconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF1CFF-6EDF-4411-BEC5-6900A0121950}|Jade\\Jade.csproj|solutionrelative:jade\\services\\ilojaitemconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estabelecimento.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Models\\Estabelecimento.cs",
+              "RelativeDocumentMoniker": "Jade\\Models\\Estabelecimento.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Models\\Estabelecimento.cs",
+              "RelativeToolTip": "Jade\\Models\\Estabelecimento.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:12:22.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstabelecimentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Dtos\\EstabelecimentoDto.cs",
+              "RelativeDocumentMoniker": "Jade\\Dtos\\EstabelecimentoDto.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Dtos\\EstabelecimentoDto.cs",
+              "RelativeToolTip": "Jade\\Dtos\\EstabelecimentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:33:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstabelecimentoController.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Controllers\\EstabelecimentoController.cs",
+              "RelativeDocumentMoniker": "Jade\\Controllers\\EstabelecimentoController.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Controllers\\EstabelecimentoController.cs",
+              "RelativeToolTip": "Jade\\Controllers\\EstabelecimentoController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:33:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Jade\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Jade\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAcwOIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:11:40.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GrupoOpcaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Dtos\\GrupoOpcaoDto.cs",
+              "RelativeDocumentMoniker": "Jade\\Dtos\\GrupoOpcaoDto.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Dtos\\GrupoOpcaoDto.cs",
+              "RelativeToolTip": "Jade\\Dtos\\GrupoOpcaoDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:03:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrupoOpcaoService.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\GrupoOpcaoService.cs",
+              "RelativeDocumentMoniker": "Jade\\Services\\GrupoOpcaoService.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\GrupoOpcaoService.cs",
+              "RelativeToolTip": "Jade\\Services\\GrupoOpcaoService.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAuwGEBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:54:16.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGrupoOpcaoService.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\IGrupoOpcaoService.cs",
+              "RelativeDocumentMoniker": "Jade\\Services\\IGrupoOpcaoService.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\IGrupoOpcaoService.cs",
+              "RelativeToolTip": "Jade\\Services\\IGrupoOpcaoService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:53:44.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "Jade\\Services\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\IProdutoService.cs",
+              "RelativeToolTip": "Jade\\Services\\IProdutoService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:47:53.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LojaItemConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\LojaItemConfigService.cs",
+              "RelativeDocumentMoniker": "Jade\\Services\\LojaItemConfigService.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\LojaItemConfigService.cs",
+              "RelativeToolTip": "Jade\\Services\\LojaItemConfigService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAIA2wKQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:51:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILojaItemConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\ILojaItemConfigService.cs",
+              "RelativeDocumentMoniker": "Jade\\Services\\ILojaItemConfigService.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Services\\ILojaItemConfigService.cs",
+              "RelativeToolTip": "Jade\\Services\\ILojaItemConfigService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:51:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LojaItemConfigDto.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Dtos\\LojaItemConfigDto.cs",
+              "RelativeDocumentMoniker": "Jade\\Dtos\\LojaItemConfigDto.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\Jade\\Jade\\Dtos\\LojaItemConfigDto.cs",
+              "RelativeToolTip": "Jade\\Dtos\\LojaItemConfigDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:51:15.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
